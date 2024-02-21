@@ -1,27 +1,21 @@
 [![logo](/imgs/logo.jpg)](http://www.dei.unict.it/corsi/lm-91)
 
-### Welcome to Knowledge Discovery Course 2023.
-## [Syllabus](https://dev7.unict.it/_insegnamento.php?uid=491508DC-B35A-4B78-B2BF-3AA76B8F8151&from_studium)
+### Welcome to Deep Learning Course 2024.
+## [Syllabus](https://dev7.unict.it/_insegnamento.php?uid=491508DC-B35A-4B78-B2BF-3AA76B8F8151&from_studium) <- sistemare
 
 
 ## SCHEDULE
 
-| Classes     |
+| Classes         |
 | :----------:    |
-| Wednesday 12-14 - Room B - Polo Tecnologico    |
-| Friday 11-13    - Room B - Polo Tecnologico    |
+| Wednesday 11-14 - <!--D22--> **TBC**    |
+| Friday 8-11     - <!--D22--> **TBC**    |
 
-
+- Please refer to the Lessons page for further details about classes schedule
 
 ## NEWS
-- **Jun 5, 2023** - The final marks (for Round 1) of the KD module are published at the [link](https://drive.google.com/file/d/1uFt3TxDXgvwvpL-V438F_xnfs_Pwnpkk/view?usp=sharing). Students who accept the marks are invited to send a discord message to obtain the mark for the total course (ML + KD).   
-- **May 19, 2023 ** - The deadlines have been reorganized (in two rounds) after discussion with students. Check the roadmap section for details.
-The students are invited to fill in the following [form](https://docs.google.com/forms/d/e/1FAIpQLSfEm5-iI7-TS25VoIg2tLiTRM0-WOpGFIiw5bv4rRzNUVMhag/viewform?usp=sf_link) to select the proper round for their exams. Finally, upon homework delivery, students are invited to fill in the following [file](https://docs.google.com/spreadsheets/d/1hxRHRtog3iDHaZX4nMfHXZ4TG94ywTMv45nxPyViM5o/edit?usp=sharing).
-- May 02, 2023 - The HW1 deadline is extended to May 10th 2023. 
-- Apr 28, 2023 - Procedure for homeworks' delivery: the deadline for completing the competition (HW1) is May 3rd, while the report for the homework and the can be submitted using github link on May 22nd. The same deadline holds for HW2. Please note that both homeworks should be discussed during the class of May 24th. A template for the powerpoint presentation will be shared in the next days. 
-- Apr 06, 2023 - The Kaggle Competition for the HW1 is available [here](https://www.kaggle.com/t/6ceb4bdc67b4496090c6d83189437df0).
-- Mar 30, 2023 - The due date for the exercise is postponed to next Friday, April 7th 2023. The HW1 assignment is also postponed to the same date. The due date has been updated accordingly.
-- Mar 06, 2023 - The course will start on March 8th 2023.
+
+- Feb 22, 2023 - The course will start on March 6th 2024.
 
 
 ## FORUM 
@@ -31,7 +25,7 @@ During the course we will be using Discord for off-line communication. Discord c
 # HOMEWORK ROADMAP 
 The final roadmap of the course homeworks is the following:
 
-| Homework | Topic              | Assignment    | Due          | Submission |
+<!--| Homework | Topic              | Assignment    | Due          | Submission |
 | :-------:| ------------------ | --------------- | -------          | --- | 
 | **Exercise**     | **CIFAR10**    | **March 24, 2023** | **April 07, 2023**   | [Link](https://docs.google.com/forms/d/e/1FAIpQLScSW8yJj26Zt8aqpVN4ssa89LtUq_plwtUEtFocjnTy66WM5Q/viewform?usp=pp_url) |
 | **HW1**     | **CNN**    | **April 05, 2023** | **May 10, 2023**   | --- |
@@ -44,6 +38,7 @@ The final roadmap of the course homeworks is the following:
 
 - Powerpoint template for homework discussion is [here](https://docs.google.com/presentation/d/1iCFYwIkUMU3WLeQofijtb9VgOurUt1gc/edit?usp=sharing&ouid=106514760952768214812&rtpof=true&sd=true).
 - The time slot for each presentation is 20 minutes (10 for each HW).
+-->
 
 # ASSESSMENT
 
@@ -51,9 +46,19 @@ The final roadmap of the course homeworks is the following:
 
 |      | %   |
 | :--------     |    -------: |
-| Homeworks | 55% |
-| Theory test  | 35%  |
-| Class attendance| 10% |
+| Practical test      | (variable) |
+| Theory test         | 30% |
+| Paper presentation  | 20% |
+| Class attendance    | 10% |
+
+- For the Practical Test, attendees can choose among the following:
+  
+|                        | %    |
+| :--------              | -------: |
+| Challenge Easy         | 30% | 
+| Challenge Medium       | 40% | 
+| Project (to be agreed) | 55% | 
+
 
 - For students not attending the course:
 
@@ -67,7 +72,7 @@ The theory test contains five multiple-choice questions and five essay questions
 ## STAFF
 
 Concetto Spampinato - *[mail](mailto:concetto.spampinato@unict.it)*
-Giovanni Bellitto - *[mail](mailto:giovanni.bellitto@phd.unict.it)*
+Giovanni Bellitto - *[mail](mailto:giovanni.bellitto@unict.it)*
 
 
 
