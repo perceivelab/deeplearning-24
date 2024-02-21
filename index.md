@@ -15,7 +15,8 @@
 
 ## NEWS
 
-- Feb 22, 2023 - The course will start on March 6th 2024.
+- Feb 22, 2023 - For students enrolled in the Master's Degree course of Computer Engineering (LM32), the course will start on March 6th 2024
+- Feb 22, 2023 - For students enrolled the Master's Degree Course of Data Science, the course will start on March 20th 2024.
 
 
 ## FORUM 
