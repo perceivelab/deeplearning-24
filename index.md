@@ -8,10 +8,10 @@
 
 | Classes         |
 | :----------:    |
-| Wednesday 11-14 - <!--D22--> **TBC**    |
-| Friday 8-11     - <!--D22--> **TBC**    |
+| Wednesday - Slot 11-14 - <!--D22--> **D22**    |
+| Friday - Slot 8-11      - <!--D22--> **D22**    |
 
-- Please refer to the Lessons page for further details about classes schedule
+- Please refer to the Lessons page for further details about topics and timing of the classes. 
 
 ## NEWS
 
