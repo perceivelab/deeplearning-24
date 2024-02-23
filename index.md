@@ -48,27 +48,29 @@ The final roadmap of the course homeworks is the following:
 |      | %   |
 | :--------     |    -------: |
 | Practical test      | (variable) |
-| Theory test         | 30% |
-| Paper presentation  | 20% |
-| Class attendance    | 10% |
+| Theory test         | 9 points |
+| Paper presentation  | 6 points |
+| Class attendance    | 3 points |
 
+- The theory test consists of nine essay questions. The total mark for the test is 9: **maximum 1 point** for each essay question.
 - For the Practical Test, attendees can choose among the following:
   
 |                        | %    |
 | :--------              | -------: |
-| Challenge Easy         | 30% | 
-| Challenge Medium       | 40% | 
-| Project (to be agreed) | 55% | 
+| Challenge Easy         | 9 points | 
+| Challenge Medium       | 12 points | 
+| Project (to be agreed) | 16 points | 
 
+Please note that students who intend to ask for MS thesis have to select mandatorily a project.  
 
 - For students not attending the course:
 
 |      | %   |
 | :--------     |    -------: |
-| AI project in Pytorch | 65% |
-| Theory test  | 35%  |
+| AI project in Pytorch | 16 points |
+| Theory test  | 16 points  |
 
-The theory test contains five multiple-choice questions and five essay questions. The total mark for the test is 30: **2 points** for each correct "multiple-choice" question (**-0.5 points** for each wrong answer) and **maximum 4 points** for each essay question.
+- In this case, the theory test consists of sixteen essay questions. The total mark for the test is 16: **maximum 1 point** for each essay question.
 
 ## STAFF
 
