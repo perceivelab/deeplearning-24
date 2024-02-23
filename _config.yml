@@ -2,6 +2,6 @@ name: Web Programming Course
 markdown: kramdown
 
 #baseurl: "/knowledge-discovery-course"
-baseurl: "deeplearning-24/"
+baseurl: "/deeplearning-24/"
 url: "https://perceivelab.github.io"
 theme: jekyll-theme-cayman
