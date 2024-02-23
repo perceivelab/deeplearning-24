@@ -1,8 +1,7 @@
 [![logo](/imgs/logo.jpg)](http://www.dei.unict.it/corsi/lm-91)
 
 ### Welcome to Deep Learning Course 2024.
-## [Syllabus](https://dev7.unict.it/_insegnamento.php?uid=491508DC-B35A-4B78-B2BF-3AA76B8F8151&from_studium) <- sistemare
-
+## [Syllabus](https://syllabus.unict.it/scheda-insegnamento.php?id=71b71f5a-4426-4ba1-a7b6-8b1a87c6c844&cds=d9db4c44-e33a-489c-b576-9e52f392fb9d) 
 
 ## SCHEDULE
 
