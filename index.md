@@ -14,18 +14,18 @@
 
 ## NEWS
 
-- Feb 22, 2023 - For students enrolled in the Master's Degree course of Computer Engineering (LM32), the course will start on March 6th 2024
-- Feb 22, 2023 - For students enrolled the Master's Degree Course of Data Science, the course will start on March 20th 2024.
+- Feb 22, 2024 - For students enrolled in the Master's Degree course of Computer Engineering (LM32), the course will start on March 6th 2024
+- Feb 22, 2024 - For students enrolled the Master's Degree Course of Data Science, the course will start on March 20th 2024.
 
 
 ## FORUM 
 During the course we will be using Discord for off-line communication. Discord channel is available at [link](https://discord.gg/XuZjgX6eaa).
 
 
-# HOMEWORK ROADMAP 
+<!--# HOMEWORK ROADMAP 
 The final roadmap of the course homeworks is the following:
 
-<!--| Homework | Topic              | Assignment    | Due          | Submission |
+| Homework | Topic              | Assignment    | Due          | Submission |
 | :-------:| ------------------ | --------------- | -------          | --- | 
 | **Exercise**     | **CIFAR10**    | **March 24, 2023** | **April 07, 2023**   | [Link](https://docs.google.com/forms/d/e/1FAIpQLScSW8yJj26Zt8aqpVN4ssa89LtUq_plwtUEtFocjnTy66WM5Q/viewform?usp=pp_url) |
 | **HW1**     | **CNN**    | **April 05, 2023** | **May 10, 2023**   | --- |
