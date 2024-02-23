@@ -43,7 +43,7 @@ The final roadmap of the course homeworks is the following:
 
 # ASSESSMENT
 
-- For students attending the course:
+**Students attending the course**
 
 |      | %   |
 | :--------     |    -------: |
@@ -63,7 +63,7 @@ The final roadmap of the course homeworks is the following:
 
 Please note that students who intend to ask for MS thesis have to select mandatorily a project.  
 
-- For students not attending the course:
+**Students not attending the course**
 
 |      | %   |
 | :--------     |    -------: |
