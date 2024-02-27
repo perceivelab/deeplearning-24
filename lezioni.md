@@ -6,8 +6,8 @@
 | Lesson            | Topic                                             | Date            | Hour          | Slides       | Notebooks and Code |
 | :-------:         | ------------------                                | --------------- | :-------:     | :-------:    |:-------:  |
 | **Lesson 1**      | ** Introduction and Linear Regression **          | March 6, 2024   | 11:00 - 13:00 | [Link](#)   | |
-| **Lesson 2**      | ** Feature and model Selection        **          | March 8, 2024   | 8:30 - 10:30  | [Link](#)   | |
-| **Lesson 3**      | ** Linear and Non-Linear Classification  **       | March 13, 2024  | 11:00 - 13:00 |             | | 
+| **Lesson 2**      | ** Linear and Non-Linear Classification**         | March 8, 2024   | 8:30 - 10:30  | [Link](#)   | |
+| **Lesson 3**      | ** Feature and model Selection  **                | March 13, 2024  | 11:00 - 13:00 |             | | 
 | **Lesson 4**      | Neural Networks and optimization                  | March 15, 2024  | 8:00 - 10:30  |             | | 
 | **Lesson 5**      | Convolutional Neural Networks                     | March 20, 2024  | 11:00 - 13:00 |             | |
 | **Lesson 6**      | Introduciton to PyTorch                           | March 22, 2024  | 8:00 - 10:30  |             | |
