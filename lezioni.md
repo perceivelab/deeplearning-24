@@ -10,7 +10,7 @@
 | **Lesson 3**      | ** Feature and model Selection  **                | March 13, 2024  | 11:00 - 13:00 |             | | 
 | **Lesson 4**      | Neural Networks and optimization                  | March 15, 2024  | 8:00 - 10:30  |             | | 
 | **Lesson 5**      | Convolutional Neural Networks                     | March 20, 2024  | 11:00 - 13:00 |             | |
-| **Lesson 6**      | Introduciton to PyTorch                           | March 22, 2024  | 8:00 - 10:30  |             | |
+| **Lesson 6**      | Introduction to PyTorch                           | March 22, 2024  | 8:00 - 10:30  |             | |
 | **Lesson 7**      | Transfer Learning                                 | March 27, 2024  | 11:00 - 13:00 |             | |
 | **Lesson 8**      | Train a CNN with Pytorch                          | April 10, 2024  | 11:00 - 14:00 |             | |
 | **Lesson 9**      | Explanaible AI                                    | April 12, 2024  | 8:00 - 10:30  | | | 
