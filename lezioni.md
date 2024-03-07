@@ -5,8 +5,8 @@
 
 | Lesson            | Topic                                             | Date            | Hour          | Slides       | Notebooks and Code |
 | :-------:         | ------------------                                | --------------- | :-------:     | :-------:    |:-------:  |
-| **Lesson 1**      | ** Introduction and Linear Regression **          | March 6, 2024   | 11:00 - 13:00 | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EeafGoekiXtFnG_ceDlHaYEBxVSk_AZ56V4iF-tPU1svmg?e=Obkjnv)   | |
-| **Lesson 2**      | ** Linear and Non-Linear Classification**         | March 8, 2024   | 8:30 - 10:30  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EdYwXfv37qFPl4MbhpcTXJsB-d-pSjJc0UFKPftCOAWGlg?e=65kkbx)   | |
+| **Lesson 1**      | ** Introduction and Linear Regression **          | March 6, 2024   | 11:00 - 13:00 | [Link1](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EeafGoekiXtFnG_ceDlHaYEBxVSk_AZ56V4iF-tPU1svmg?e=Obkjnv) [Link2](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EdYwXfv37qFPl4MbhpcTXJsB-d-pSjJc0UFKPftCOAWGlg?e=65kkbx)  | |
+| **Lesson 2**      | ** Linear and Non-Linear Classification**         | March 8, 2024   | 8:30 - 10:30  |  [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EXhIg0LAhkpJg9mak5EP2HMB9MwGK6YW7z3bsNw2F5Hy1Q?e=ec8GbA)  | |
 | **Lesson 3**      | ** Feature and model Selection  **                | March 13, 2024  | 11:00 - 13:00 | [Link](#)   | | 
 | **Lesson 4**      | ** Neural Networks and optimization **            | March 15, 2024  | 8:00 - 10:30  | [Link](#)   | | 
 | **Lesson 5**      | Convolutional Neural Networks                     | March 20, 2024  | 11:00 - 13:00 |             | |
