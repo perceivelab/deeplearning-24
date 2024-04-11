@@ -13,7 +13,7 @@
 | **Lesson 6**      | Introduction to PyTorch                           | March 22, 2024  | 8:00 - 10:30  | | [Link](https://colab.research.google.com/drive/1hHIFgCE1FLPFgBK_H480wEWPhMwb0_Fa?usp=sharing) |
 | **Lesson 7**      | Train a CNN with Pytorch                          | March 27, 2024  | 11:00 - 13:00 | | [Link](https://colab.research.google.com/drive/1U3MS5kULj2nxR4_CZf_LvRDt8-XozWo3?usp=sharing) |
 | **Lesson 8**      | Advanced CNNs                                     | April 10, 2024  | 11:00 - 13:00 | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EbpoRLEGXvFLsr4h47PNB84BeSE0-gZGLEsDBIecIR9q5w?e=SgeU0U)   | |
-| **Lesson 9**      | Explanaible AI                                    | April 12, 2024  | 9:00 - 11:00  | <!--[Link](#)-->   | | 
+| **Lesson 9**      | Explanaible AI                                    | April 12, 2024  | 9:00 - 11:00  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/ERDMPBQRqWRHrSwTH-ahrSwBmrgVBHIX4coiSwMd4Xe-1A?e=7Qw7NF)   | | 
 | **Lesson 10**     | CAPTUM                                            | April 17, 2024  | 11:00 - 14:00 | <!--[Link](#)-->   | |
 | **Lesson 11**     | Recurrent Neural Networks: RNN and LSTM           | April 19, 2024  | 8:30 - 11:00  | | |
 | **Lesson 12**     | Transformers-based Models                         | May 3, 2024     | 8:00 - 10:30  | | |
