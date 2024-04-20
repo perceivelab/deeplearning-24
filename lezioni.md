@@ -19,12 +19,12 @@
 | **Lesson 12**     | Transformers-based Models                         | May 3, 2024     | 8:00 - 10:30  | <!--[Link](#)-->| |
 | **Lesson 13**     | Transformers with PyTorch                         | May 8, 2024     | 11:00 - 14:00 | <!--[Link](#)-->| |
 | **Lesson 14**     | Generative AI - VAE and GANs                      | May 10, 2024    | 8:00 - 10:30  | | |
-| **Lesson 11**     | Generative AI - Diffusion Models                  | May 15, 2024    | 11:00 - 14:00 | | |
-| **Lesson 12**     | Create a GAN with PyTorch + Diffusion Models      | May 22, 2024    | 11:00 - 14:00 | | |
-| **Lesson 14**     |                                 ~                 | May 27, 2024    |       ~       | | |
-| **Lesson 15**     |                                 ~                 | May 29, 2024    |       ~       | | |
-| **Lesson 16**     | Presentations by students                         | Jun 5, 2024     |       ~       | | |
-| **Lesson 17**     | Theory test                                       | Jun 10, 2024    |       ~       | | |
-| **Lesson 17**     | Projects Discussion                               | Jun 12, 2024    |       ~       | | |
+| **Lesson 15**     | Generative AI - Diffusion Models                  | May 15, 2024    | 11:00 - 14:00 | | |
+| **Lesson 16**     | Create a GAN with PyTorch + Diffusion Models      | May 22, 2024    | 11:00 - 14:00 | | |
+| **Lesson 17**     |                                 ~                 | May 27, 2024    |       ~       | | |
+| **Lesson 18**     |                                 ~                 | May 29, 2024    |       ~       | | |
+|                   | Presentations by students                         | Jun 5, 2024     |       ~       | | |
+|                   | Theory test                                       | Jun 10, 2024    |       ~       | | |
+|                   | Projects Discussion                               | Jun 12, 2024    |       ~       | | |
 
 <!-- https://colab.research.google.com/drive/1U3MS5kULj2nxR4_CZf_LvRDt8-XozWo3?usp=sharing -->
