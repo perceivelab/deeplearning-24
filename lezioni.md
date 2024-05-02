@@ -18,7 +18,7 @@
 | **Lesson 11**     | Recurrent Neural Networks: RNN and LSTM           | April 19, 2024  | 8:30 - 11:00  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EaHa-5iDXMdMqV4yDlmzEL4BERHyaQe-veqWjzCvL1u4Tw?e=dtNZBc)| |
 | **Lesson 12**     | Transformers-based Models                         | May 3, 2024     | 8:30 - 11:00  | <!--[Link](#)-->| |
 | **Lesson 13**     | Transformers with PyTorch                         | May 8, 2024     | 11:00 - 14:00 | <!--[Link](#)-->| |
-| **Lesson 14**     | Generative AI - VAE and GANs                      | May 10, 2024    | 8:00 - 10:30  | | |
+| **Lesson 14**     | Generative AI - VAE and GANs                      | May 10, 2024    | 8:30 -   11:00  | | |
 | **Lesson 15**     | Generative AI - Diffusion Models                  | May 15, 2024    | 11:00 - 14:00 | | |
 | **Lesson 16**     | Create a GAN with PyTorch + Diffusion Models      | May 22, 2024    | 11:00 - 14:00 | | |
 | **Lesson 17**     |                                 ~                 | May 27, 2024    |       ~       | | |
