@@ -48,20 +48,17 @@ The final roadmap of the course homeworks is the following:
 |      | %   |
 | :--------     |    -------: |
 | Practical test      | (variable) |
-| Theory test         | 9 points |
-| Paper presentation  | 6 points |
-| Class attendance    | 3 points |
+| Theory test         | 10 points |
+| Paper presentation  | 8 points |
 
 - The theory test consists of nine essay questions. The total mark for the test is 9: **maximum 1 point** for each essay question.
-- For the Practical Test, attendees can choose among the following:
+- For the practical test, attendees can choose among the following:
   
 |                        | %    |
 | :--------              | -------: |
-| Challenge Easy         | 9 points | 
-| Challenge Medium       | 12 points | 
-| Project (to be agreed) | 16 points | 
-
-Please note that students who intend to ask for MS thesis have to select mandatorily a project.  
+| Challenge Easy         | 12 points | 
+| Challenge Medium       | 15 points | 
+| Project (to be agreed) | 18 points | 
 
 **Students not attending the course**
 
