@@ -56,9 +56,9 @@ The final roadmap of the course homeworks is the following:
   
 |                        | %    |
 | :--------              | -------: |
-| Challenge Easy         | 12 points | 
-| Challenge Medium       | 15 points | 
-| Project (to be agreed) | 18 points | 
+| Challenge with unannotated images    | 12 points | 
+| Challenge Domain Shift               | 15 points | 
+| Project (to be agreed)               | 18 points | 
 
 **Students not attending the course**
 
