@@ -13,7 +13,8 @@
 - Please refer to the Lessons page for further details about topics and timing of the classes. 
 
 ## NEWS
-
+- May 04, 2024 - The 2024 Kaggle Challenge#2 is available [here](https://www.kaggle.com/competitions/aiunict2024-challenge-2/). **DEADLINE: June 09, 2024**.
+- May 04, 2024 - The 2024 Kaggle Challenge#1 is available [here](https://www.kaggle.com/competitions/ai-unict-2024-challenge-1).  **DEADLINE: June 09, 2024**.
 - Apr 18, 2024 - The paper list for 2024 is now accessible at [this link](https://docs.google.com/spreadsheets/d/1rPhZ6EPzj0DONUYjN0lky0k14ESTRXTsqkauPMEm49M/edit?usp=sharing). Each paper includes the recommended team size based on its complexity. Contrary to our initial announcement, presentations can now be conducted in teams of up to three students. Remember to input your team members' surnames in the 'Team' column. The link will remain active until April 25th, 2024. Additionally, mark your calendars for the paper presentation day on June 5th, 2024, as indicated on the course website.
 - Feb 22, 2024 - For students enrolled in the Master's Degree course of Computer Engineering (LM32), the course will start on March 6th 2024
 - Feb 22, 2024 - For students enrolled the Master's Degree Course of Data Science, the course will start on March 20th 2024.
