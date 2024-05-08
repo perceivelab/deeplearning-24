@@ -17,7 +17,7 @@
 | **Lesson 10**     | CAPTUM                                            | April 17, 2024  | 11:00 - 14:00 | | [Link](https://colab.research.google.com/drive/11QDsKGK-YrA9FKDs7tOg1-AsL_kI0sP9?usp=sharing) |
 | **Lesson 11**     | Recurrent Neural Networks: RNN and LSTM           | April 19, 2024  | 8:30 - 11:00  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EaHa-5iDXMdMqV4yDlmzEL4BERHyaQe-veqWjzCvL1u4Tw?e=dtNZBc)| |
 | **Lesson 12**     | Transformers-based Models                         | May 3, 2024     | 8:30 - 11:00  | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EYWPtF1-gM5CgWPdyLCy8v0BCk8nY2hs_N1l8aLIv3ja6A?e=gQMt3q)| |
-| **Lesson 13**     | Vision Transformers with PyTorch                  | May 8, 2024     | 11:00 - 14:00 | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/Ee4GBPPiGlpEhtxnbhBZnrcB2-SqB9WptV7ucBhozdk1PA?e=Ma5hCn)| [Link](#)|
+| **Lesson 13**     | Vision Transformers with PyTorch                  | May 8, 2024     | 11:00 - 14:00 | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/Ee4GBPPiGlpEhtxnbhBZnrcB2-SqB9WptV7ucBhozdk1PA?e=Ma5hCn)| [Link](https://colab.research.google.com/drive/18sE5-OS5UEKH4HqsctZ6o6zGyaUCDI4P#sandboxMode=true&scrollTo=QBWx6eDc6MAm)|
 | **Lesson 14**     | Generative AI - VAE, GANs and DF - Part 1         | May 15, 2024    | 11:00 - 13:00  | | |
 | **Lesson 15**     | Generative AI - VAE, GANs and DF - Part 2         | May 17, 2024    | 08:30 - 11:00 | | |
 | **Lesson 16**     | Create a GAN with PyTorch + Diffusion Models      | May 22, 2024    | 11:00 - 14:00 | | |
