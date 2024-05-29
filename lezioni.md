@@ -23,7 +23,7 @@
 | **Lesson 16**     | Create a GAN with PyTorch                         | May 22, 2024    | 11:00 - 14:00 | | [Link](https://colab.research.google.com/drive/1oGmvFYqGjIMDKEUWn52BBXgADMNSYa0E?usp=sharing)|
 | **Lesson 17**     | Deep Learning for Audio Processing                | May 24, 2024    | 08:00 - 11:00      | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EQLde2HRi-BJgErCMMEwy0YBHNtgkvCWZbE-qIJaVi6Fdg?e=ESGKYo)| |
 | **Lesson 18**     | Foundation models                                 | May 29, 2024    | 11:00 - 14:00       | | |
-| **Lesson 19**     | Supporto to project development                   | May 31, 2024    | 8:00  - 11:00       | | |
+| **Lesson 19**     | Support to project development                   | May 31, 2024    | 8:00  - 11:00       | | |
 |                   | Presentations by students                         | Jun 5, 2024     |       ~       | | |
 |                   | Theory test                                       | Jun 10, 2024    |       ~       | | |
 |                   | Projects Discussion                               | Jun 12, 2024    |       ~       | | |
