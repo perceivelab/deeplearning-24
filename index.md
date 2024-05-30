@@ -13,7 +13,7 @@
 - Please refer to the Lessons page for further details about topics and timing of the classes. 
 
 ## NEWS
-- May 30, 2024 - The schedule for paper presentation is 
+- May 30, 2024 - Paper presentation will be done on **June 5th from 8.30 to 13.30** according to the following [schedule](https://docs.google.com/spreadsheets/d/1OdC2U9UClV6h6IeEShP-WaxXCQz2yF3OhTI0z3P9OUo/edit?usp=sharing). Students are required to upload their presentations by **June 4th at 15.00**. 
 - May 30, 2024 - The overleaf template for project report is available [here](https://www.overleaf.com/read/fttvfxqgvfvs#16a116). The report must be submitted at least 24 hours before project discussion.
 - May 04, 2024 - The 2024 Kaggle Challenge#2 is available [here](https://www.kaggle.com/t/c552471c93464d6bb5987f75347b86bd). **DEADLINE: June 09, 2024**.
 - May 04, 2024 - The 2024 Kaggle Challenge#1 is available [here](https://www.kaggle.com/t/685b66202c804425b069bedcafa3326b).  **DEADLINE: June 09, 2024**.
