@@ -13,6 +13,11 @@
 - Please refer to the Lessons page for further details about topics and timing of the classes. 
 
 ## NEWS
+- June 5, 2024 - The deadline for both challenges is extended to July 31st 2024. It's still mandatory to submit the final report (via email to both professors) at least 24 hour before the discussion.
+- June 5, 2024 - The official exam dates for the course are: 26/06/2024 - 12/07/2024 - 13/09/2024 - 27/09/2024.
+- June 5, 2024 - Starting from 26 June 2024, theory test and project discussion will be done on the same day, according to the official exam day.
+- June 5, 2024 - The dates for the project discussion are: 12/06/2024, 20/06/2024, 26/06/2024. Students can book one of these dates through the discord channel of the course.
+- June 5, 2024 - The dates for the theory test are: 10/06/2024, 17/06/2024, 24/06/2024. Students can book one of these dates through the discord channel of the course. 
 - May 30, 2024 - Paper presentation will be done on **June 5th from 8.30 to 13.30** according to the following [schedule](https://docs.google.com/spreadsheets/d/1OdC2U9UClV6h6IeEShP-WaxXCQz2yF3OhTI0z3P9OUo/edit?usp=sharing). Students are required to upload their presentations by **June 4th at 15.00** in this [shared folder](https://studentiunict-my.sharepoint.com/:f:/g/personal/concetto_spampinato_unict_it/EvOW1fDC-Z9CoW-RbY-W0GkBbvULbvd1mPeT_4lwGtDlYw?e=DrOtGF). 
 - May 30, 2024 - The overleaf template for project report is available [here](https://www.overleaf.com/read/fttvfxqgvfvs#16a116). The report must be submitted at least 24 hours before project discussion.
 - May 04, 2024 - The 2024 Kaggle Challenge#2 is available [here](https://www.kaggle.com/t/c552471c93464d6bb5987f75347b86bd). **DEADLINE: June 09, 2024**.
