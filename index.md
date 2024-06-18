@@ -79,7 +79,7 @@ The final roadmap of the course homeworks is the following:
 - The project should be agreed with the instructors at least three weeks before the exam. In this case, the theory test consists of sixteen essay questions. The total mark for the test is 16: **maximum 1 point** for each essay question.
 - The theory test must be done on the official course exam dates which are:
 
-|      | %   |
+|  Date    | Time and location   |
 | :--------     |    -------: |
 | 02/07/2024 | 15.00 Aula B - Polo Tecnologico |
 | 22/07/2024 | 15.00 Aula B - Polo Tecnologico |
