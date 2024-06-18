@@ -76,7 +76,18 @@ The final roadmap of the course homeworks is the following:
 | AI project in Pytorch | 16 points |
 | Theory test  | 16 points  |
 
-- In this case, the theory test consists of sixteen essay questions. The total mark for the test is 16: **maximum 1 point** for each essay question. An example of a past theory test is available [here](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EcEP1-eJBlVOoFBW16t6vCYB2RaZGzhJ1Mnh3rfle_LLQQ?e=1mMPsm)
+- The project should be agreed with the instructors at least three weeks before the exam. In this case, the theory test consists of sixteen essay questions. The total mark for the test is 16: **maximum 1 point** for each essay question.
+- The theory test must be done on the official course exam dates which are:
+
+|      | %   |
+| :--------     |    -------: |
+| 02/07/2024 | 15.00 Aula B - Polo Tecnologico |
+| 22/07/2024 | 15.00 Aula B - Polo Tecnologico |
+| 10/09/2024 | 15.00 Aula B - Polo Tecnologico |
+| 25/09/2024 | 15.00 Aula B - Polo Tecnologico |
+
+
+- An example of a past theory test is available [here](https://studentiunict-my.sharepoint.com/:b:/g/personal/concetto_spampinato_unict_it/EcEP1-eJBlVOoFBW16t6vCYB2RaZGzhJ1Mnh3rfle_LLQQ?e=1mMPsm)
 
 ## STAFF
 
