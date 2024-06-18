@@ -77,7 +77,7 @@ The final roadmap of the course homeworks is the following:
 | Theory test  | 16 points  |
 
 - The project should be agreed with the instructors at least three weeks before the exam. In this case, the theory test consists of sixteen essay questions. The total mark for the test is 16: **maximum 1 point** for each essay question.
-- The theory test must be done on the official course exam dates which are:
+- The theory test must be done on the official course exam dates (see below), while project discussion can be done in a date agreed with the instructors (after theory test).
 
 |  Date    | Time and location   |
 | :--------     |    -------: |
